@@ -15,4 +15,4 @@
 ![Shopon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shopon-Hossen&show_icons=true&theme=tokyonight)
 
 ## 📚 Top Languages
-[![Shopon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shopon-Hossen)]
+[![Shopon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shopon-Hossen&show_icons=true&theme=tokyonight)]
