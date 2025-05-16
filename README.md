@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Shopon
 
 🎯 Backend Developer (Python, Django, DRF)  
-🛠️ Working on mastering Django, PostgreSQL, and deployment  
-📚 Learning DevOps and System Design  
-🚀 Currently exploring: Docker, CI/CD, and Cloud Deployment  
+🛠️ Working on Django, DRF, PostgreSQL, and deployment  
+🚀 Currently exploring: Docker and Cloud Deployment  
 
 ## 🔧 Tech Stack
 - 🐍 Python | Django | Django Rest Framework
@@ -13,4 +12,4 @@
 - 🧪 Git | GitHub | Postman
 
 ## 📈 GitHub Stats
-![Shopon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shopon-Hossen&show_icons=true&theme=tokyonight)
+![Shopon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shopon-Hossen&show_icons=true)
